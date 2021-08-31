@@ -1,0 +1,27 @@
+.search-block {
+    margin: 100px;
+    text-align: center;
+    height: 50vh;
+}
+
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input[type=text]{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    text-align: center;
+    display: inline-block;
+    border: 3px solid #4CAF50;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
